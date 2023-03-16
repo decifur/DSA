@@ -5,8 +5,8 @@
 ### Week 2 (Due date - 19th March)
 
 **Recursion - 3**  
--[ ] Recursive Implementation of atoi()  
--[ ] pow()  
+-✅ Recursive Implementation of atoi()  
+-✅ pow()  
 -[ ] Count Good Numbers  
 **Backtracking - 3**  
 -[ ] Backtracking Set 2 Rat in a Maze  
@@ -15,8 +15,8 @@
 ### Week 1 (Due date - 12th March)
 
 **Arrays - 1**  
- -[x] Maximum-Subarray  
+ -✅ Maximum-Subarray  
 **Searching & Sorting - 1**  
- -[x] find common elements three sorted arrays  
+ -✅ find common elements three sorted arrays  
 **Strings - 1**  
- -[x] Longest Common Prefix
+ -✅ Longest Common Prefix
