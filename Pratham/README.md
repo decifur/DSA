@@ -11,7 +11,7 @@
 
 **Backtracking - 3**  
  -✅ N Queens Problem  
- -[ ] Backtracking Set 2 Rat in a Maze  
+ -✅ Backtracking Set 2 Rat in a Maze  
  -[ ] Combinational Sum  
  -[ ] Crossword-Puzzle
 
