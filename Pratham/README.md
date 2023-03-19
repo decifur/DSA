@@ -10,8 +10,10 @@
  -✅ Count Good Numbers
 
 **Backtracking - 3**  
- -✅ N Queens Problem -[ ] Backtracking Set 2 Rat in a Maze  
- -[ ] Combinational Sum -[ ] Crossword-Puzzle
+ -✅ N Queens Problem  
+ -[ ] Backtracking Set 2 Rat in a Maze  
+ -[ ] Combinational Sum  
+ -[ ] Crossword-Puzzle
 
 ### Week 1 (Due date - 12th March)
 
